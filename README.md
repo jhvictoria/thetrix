@@ -1,5 +1,5 @@
 # Thetrix
-Thetrix is just a Tetris game made in Dr.Racket language
+Thetrix is just a Tetris game made in Dr.Racket language.
 
 # Run the Game
 Download Dr.Racket from https://download.racket-lang.org/ (Version 6.3). Open Dr.Racket and open "src/thetrix.scm", then hit Play in Dr.Racket UI interface.

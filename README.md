@@ -12,6 +12,6 @@ Use left and right arrow keys to move a piece. Use 'X' key to rotate a piece. Us
 Make a high score and enjoy!
 
 # Authors
-- Jorge Victoria
-- Diana Velasco
 - Victor Rivera
+- Diana Velasco
+- Jorge Victoria
